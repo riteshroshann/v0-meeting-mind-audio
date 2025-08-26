@@ -1,3 +1,0 @@
-"""
-Meeting Assistant Django Application
-"""
